@@ -1,0 +1,27 @@
+section {
+    margin: 1rem;
+}
+h2 {
+    margin-bottom: .5rem;
+}
+.box {
+    font-size: 2rem;
+}
+.block {
+    display: block;
+    background-color: royalblue;
+    color: #fff;
+}
+.inline {
+    display: inline;
+    background-color: aqua;
+}
+.inline-block {
+    display: inline-block;
+    background-color: gold;
+}
+
+.size {
+    width: 250px;
+    height: 250px;
+}
